@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848912013040",
+    "firebase_url": "https://gopower-b56c5.firebaseio.com",
+    "project_id": "gopower-b56c5",
+    "storage_bucket": "gopower-b56c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848912013040:android:651d961a67857ecc461435",
+        "android_client_info": {
+          "package_name": "com.example.gopower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848912013040-rkupclg11qjhcg7escsncooschpr68kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gopower",
+            "certificate_hash": "e8c85683775fae54e20cdf4cafc2423e5c9a4731"
+          }
+        },
+        {
+          "client_id": "848912013040-iduo8ce9fg2sulqu80qhst29nd5afo4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkuR6g8ymIbU5g0j7YjZ5_Kl1CPcs6nvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848912013040-iduo8ce9fg2sulqu80qhst29nd5afo4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
